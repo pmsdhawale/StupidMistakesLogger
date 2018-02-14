@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "181193214060",
+    "firebase_url": "https://stupidmistakeslogger.firebaseio.com",
+    "project_id": "stupidmistakeslogger",
+    "storage_bucket": "stupidmistakeslogger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181193214060:android:24c5c82965aae3be",
+        "android_client_info": {
+          "package_name": "com.pranjal.stupid.mistakes.logger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181193214060-bp05o48u8mn2uunq3v3bn7rkfcb6kdg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pranjal.stupid.mistakes.logger",
+            "certificate_hash": "53d71c30cae0d7c7680c6e7cdf517572b770d160"
+          }
+        },
+        {
+          "client_id": "181193214060-0mjqv532794t9ihepvs80hq6gtd65m7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt37sfqMus2cNurG7HjxrOMDMe9Y9xmUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181193214060-0mjqv532794t9ihepvs80hq6gtd65m7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
